@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JSImageBrowserVideoKit_Tests' do
+  pod 'JSImageBrowserVideoKit', :path => '../'
+  
+  
+end
