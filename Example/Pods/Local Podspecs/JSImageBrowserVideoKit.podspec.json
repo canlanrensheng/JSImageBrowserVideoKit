@@ -1,0 +1,22 @@
+{
+  "name": "JSImageBrowserVideoKit",
+  "version": "0.1.0",
+  "summary": "A short description of JSImageBrowserVideoKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/canlanrensheng/JSImageBrowserVideoKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "canlanrensheng": "jinshan.zhang@51ysscw.com"
+  },
+  "source": {
+    "git": "https://github.com/canlanrensheng/JSImageBrowserVideoKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSImageBrowserVideoKit/Classes/**/*"
+}

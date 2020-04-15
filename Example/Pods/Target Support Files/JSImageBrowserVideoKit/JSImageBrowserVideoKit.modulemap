@@ -1,0 +1,6 @@
+framework module JSImageBrowserVideoKit {
+  umbrella header "JSImageBrowserVideoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
